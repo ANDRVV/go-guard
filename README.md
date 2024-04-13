@@ -1,6 +1,6 @@
 <div align="center" style="display:grid;place-items:center;">
 <p>
-    <img src="https://github.com/ANDRVV/go-guard/blob/main/images/go-guard-t.png?raw=true" alt="Gapcast logo">
+    <img src="https://github.com/ANDRVV/go-guard/blob/main/images/go-guard-t.png?raw=true" alt="go-guard logo">
 </p>
 
 # go-guard
